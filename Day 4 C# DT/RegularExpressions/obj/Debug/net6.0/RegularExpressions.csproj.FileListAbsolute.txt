@@ -1,0 +1,14 @@
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\bin\Debug\net6.0\RegularExpressions.exe
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\bin\Debug\net6.0\RegularExpressions.deps.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\bin\Debug\net6.0\RegularExpressions.runtimeconfig.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\bin\Debug\net6.0\RegularExpressions.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\bin\Debug\net6.0\RegularExpressions.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\RegularExpressions.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\refint\RegularExpressions.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\RegularExpressions.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\RegularExpressions.genruntimeconfig.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\RegularExpressions\obj\Debug\net6.0\ref\RegularExpressions.dll

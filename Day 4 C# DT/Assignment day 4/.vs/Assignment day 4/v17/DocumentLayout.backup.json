@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\Assignment day 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7426878-A8DA-418F-8763-419046003400}|..\\TransportScheduler\\TransportScheduler.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\day 4 c# dt\\transportscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7426878-A8DA-418F-8763-419046003400}|..\\TransportScheduler\\TransportScheduler.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\day 4 c# dt\\transportscheduler\\transportschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7426878-A8DA-418F-8763-419046003400}|..\\TransportScheduler\\TransportScheduler.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\day 4 c# dt\\transportscheduler\\transportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CDA88-D29F-4BEA-8C31-043E6CBFD65B}|..\\BookXML\\BookXML.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\day 4 c# dt\\bookxml\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CDA88-D29F-4BEA-8C31-043E6CBFD65B}|..\\BookXML\\BookXML.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\day 4 c# dt\\bookxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CDA88-D29F-4BEA-8C31-043E6CBFD65B}|..\\BookXML\\BookXML.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\day 4 c# dt\\bookxml\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CDA88-D29F-4BEA-8C31-043E6CBFD65B}|..\\BookXML\\BookXML.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\day 4 c# dt\\bookxml\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransportSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\TransportScheduler\\TransportSchedule.cs",
+              "RelativeDocumentMoniker": "..\\TransportScheduler\\TransportSchedule.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\TransportScheduler\\TransportSchedule.cs",
+              "RelativeToolTip": "..\\TransportScheduler\\TransportSchedule.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:03:33.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\TransportScheduler\\TransportManager.cs",
+              "RelativeDocumentMoniker": "..\\TransportScheduler\\TransportManager.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\TransportScheduler\\TransportManager.cs",
+              "RelativeToolTip": "..\\TransportScheduler\\TransportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:03:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\TransportScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TransportScheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\TransportScheduler\\Program.cs",
+              "RelativeToolTip": "..\\TransportScheduler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:02:36.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment1.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Assignment1.cs",
+              "RelativeDocumentMoniker": "..\\BookXML\\Assignment1.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Assignment1.cs",
+              "RelativeToolTip": "..\\BookXML\\Assignment1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:45:04.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Author.cs",
+              "RelativeDocumentMoniker": "..\\BookXML\\Author.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Author.cs",
+              "RelativeToolTip": "..\\BookXML\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:17:22.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Book.cs",
+              "RelativeDocumentMoniker": "..\\BookXML\\Book.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Book.cs",
+              "RelativeToolTip": "..\\BookXML\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:16:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BookXML\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Day 4 C# DT\\BookXML\\Program.cs",
+              "RelativeToolTip": "..\\BookXML\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:13:43.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

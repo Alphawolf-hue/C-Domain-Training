@@ -1,0 +1,14 @@
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\bin\Debug\net6.0\BookXML.exe
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\bin\Debug\net6.0\BookXML.deps.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\bin\Debug\net6.0\BookXML.runtimeconfig.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\bin\Debug\net6.0\BookXML.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\bin\Debug\net6.0\BookXML.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\BookXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\BookXML.AssemblyInfoInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\BookXML.AssemblyInfo.cs
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\BookXML.csproj.CoreCompileInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\BookXML.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\refint\BookXML.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\BookXML.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\BookXML.genruntimeconfig.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Day 4 C# DT\BookXML\obj\Debug\net6.0\ref\BookXML.dll
