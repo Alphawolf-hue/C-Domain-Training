@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\srp.cs\\srpdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:srp.cs\\srpdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\ocp.cs\\ocpdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:ocp.cs\\ocpdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\lsp.cs\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:lsp.cs\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\lsp.cs\\lspdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:lsp.cs\\lspdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\isp.cs\\ispdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:isp.cs\\ispdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\ocp.cs\\temporaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:ocp.cs\\temporaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\ocp.cs\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:ocp.cs\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\ocp.cs\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:ocp.cs\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\lsp.cs\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:lsp.cs\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\lsp.cs\\ifruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:lsp.cs\\ifruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\isp.cs\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:isp.cs\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\isp.cs\\investmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:isp.cs\\investmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\isp.cs\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:isp.cs\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\dip.cs\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:dip.cs\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\dip.cs\\dipdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:dip.cs\\dipdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\srp.cs\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:srp.cs\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\srp.cs\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:srp.cs\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 5 work\\designprinciples\\srp.cs\\cashwithdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEFB5C-2262-4A2F-9BB7-B15B6E26073F}|DesignPrinciples.csproj|solutionrelative:srp.cs\\cashwithdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemporaryEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\TemporaryEmployee.cs",
+              "RelativeDocumentMoniker": "OCP.cs\\TemporaryEmployee.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\TemporaryEmployee.cs",
+              "RelativeToolTip": "OCP.cs\\TemporaryEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:45.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "OCP.cs\\PermanentEmployee.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\PermanentEmployee.cs",
+              "RelativeToolTip": "OCP.cs\\PermanentEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:34.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OCPDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\OCPDemo.cs",
+              "RelativeDocumentMoniker": "OCP.cs\\OCPDemo.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\OCPDemo.cs",
+              "RelativeToolTip": "OCP.cs\\OCPDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:22.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\Employee.cs",
+              "RelativeDocumentMoniker": "OCP.cs\\Employee.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\OCP.cs\\Employee.cs",
+              "RelativeToolTip": "OCP.cs\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LSPDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\LSPDemo.cs",
+              "RelativeDocumentMoniker": "LSP.cs\\LSPDemo.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\LSPDemo.cs",
+              "RelativeToolTip": "LSP.cs\\LSPDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:36:43.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:23:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISPDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\ISPDemo.cs",
+              "RelativeDocumentMoniker": "ISP.cs\\ISPDemo.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\ISPDemo.cs",
+              "RelativeToolTip": "ISP.cs\\ISPDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:31:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SRPDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\SRPDemo.cs",
+              "RelativeDocumentMoniker": "SRP.cs\\SRPDemo.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\SRPDemo.cs",
+              "RelativeToolTip": "SRP.cs\\SRPDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:25:42.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\Apple.cs",
+              "RelativeDocumentMoniker": "LSP.cs\\Apple.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\Apple.cs",
+              "RelativeToolTip": "LSP.cs\\Apple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:36:17.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\Orange.cs",
+              "RelativeDocumentMoniker": "LSP.cs\\Orange.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\Orange.cs",
+              "RelativeToolTip": "LSP.cs\\Orange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:36:54.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFruit.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\IFruit.cs",
+              "RelativeDocumentMoniker": "LSP.cs\\IFruit.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\LSP.cs\\IFruit.cs",
+              "RelativeToolTip": "LSP.cs\\IFruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:36:31.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "ISP.cs\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\SavingsAccount.cs",
+              "RelativeToolTip": "ISP.cs\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:32:14.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvestmentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\InvestmentAccount.cs",
+              "RelativeDocumentMoniker": "ISP.cs\\InvestmentAccount.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\InvestmentAccount.cs",
+              "RelativeToolTip": "ISP.cs\\InvestmentAccount.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:32:03.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\IAccount.cs",
+              "RelativeDocumentMoniker": "ISP.cs\\IAccount.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\ISP.cs\\IAccount.cs",
+              "RelativeToolTip": "ISP.cs\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:31:32.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\DIP.cs\\IAudioPlayer.cs",
+              "RelativeDocumentMoniker": "DIP.cs\\IAudioPlayer.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\DIP.cs\\IAudioPlayer.cs",
+              "RelativeToolTip": "DIP.cs\\IAudioPlayer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:30:04.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DIPDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\DIP.cs\\DIPDemo.cs",
+              "RelativeDocumentMoniker": "DIP.cs\\DIPDemo.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\DIP.cs\\DIPDemo.cs",
+              "RelativeToolTip": "DIP.cs\\DIPDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:28:10.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CashWithdrawal.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\CashWithdrawal.cs",
+              "RelativeDocumentMoniker": "SRP.cs\\CashWithdrawal.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\CashWithdrawal.cs",
+              "RelativeToolTip": "SRP.cs\\CashWithdrawal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:26:10.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\Deposit.cs",
+              "RelativeDocumentMoniker": "SRP.cs\\Deposit.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\Deposit.cs",
+              "RelativeToolTip": "SRP.cs\\Deposit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:25:57.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Statement.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\Statement.cs",
+              "RelativeDocumentMoniker": "SRP.cs\\Statement.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 5 work\\DesignPrinciples\\SRP.cs\\Statement.cs",
+              "RelativeToolTip": "SRP.cs\\Statement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:25:28.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

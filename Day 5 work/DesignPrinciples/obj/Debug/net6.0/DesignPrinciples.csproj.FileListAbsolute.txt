@@ -1,0 +1,15 @@
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.AssemblyInfoInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.AssemblyInfo.cs
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.sourcelink.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\bin\Debug\net6.0\DesignPrinciples.exe
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\bin\Debug\net6.0\DesignPrinciples.deps.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\bin\Debug\net6.0\DesignPrinciples.runtimeconfig.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\bin\Debug\net6.0\DesignPrinciples.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\bin\Debug\net6.0\DesignPrinciples.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\refint\DesignPrinciples.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\DesignPrinciples.genruntimeconfig.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\DesignPrinciples\obj\Debug\net6.0\ref\DesignPrinciples.dll
