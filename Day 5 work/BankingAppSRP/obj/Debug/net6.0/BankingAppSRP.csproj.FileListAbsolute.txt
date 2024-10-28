@@ -1,0 +1,15 @@
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\bin\Debug\net6.0\BankingAppSRP.exe
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\bin\Debug\net6.0\BankingAppSRP.deps.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\bin\Debug\net6.0\BankingAppSRP.runtimeconfig.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\bin\Debug\net6.0\BankingAppSRP.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\bin\Debug\net6.0\BankingAppSRP.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.AssemblyInfoInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.AssemblyInfo.cs
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.csproj.CoreCompileInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.sourcelink.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\refint\BankingAppSRP.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\BankingAppSRP.genruntimeconfig.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\Domain Training\Day 5 work\BankingAppSRP\obj\Debug\net6.0\ref\BankingAppSRP.dll
