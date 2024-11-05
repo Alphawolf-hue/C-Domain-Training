@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DMkYT6xGWeuAx0Dxxkjc4BWgw0lHU01w52QxvDtDbqY=",
+  "Source": "CF_API",
+  "BasePath": "_content/CF_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
