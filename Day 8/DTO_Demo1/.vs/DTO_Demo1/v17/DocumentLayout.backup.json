@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\dto_demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:dto_demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Migrations\\20241106115858_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241106115858_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 8\\dto_demo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0565634C-8D71-40D8-B9B8-A81B04EE8C4B}|DTO_Demo1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "Controllers\\BooksController.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:25:34.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Mappings\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingExtensions.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Mappings\\MappingExtensions.cs*",
+              "RelativeToolTip": "Mappings\\MappingExtensions.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:12:28.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Models\\Book.cs*",
+              "RelativeToolTip": "Models\\Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:58:01.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\DTO\\BookDTO.cs*",
+              "RelativeToolTip": "DTO\\BookDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:07:27.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:02:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:07:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:55:19.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTO_Demo1.csproj",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\DTO_Demo1.csproj",
+              "RelativeDocumentMoniker": "DTO_Demo1.csproj",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\DTO_Demo1.csproj",
+              "RelativeToolTip": "DTO_Demo1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T11:04:36.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T11:52:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241106115858_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Migrations\\20241106115858_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241106115858_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 8\\DTO_Demo1\\Migrations\\20241106115858_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241106115858_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:58:59.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

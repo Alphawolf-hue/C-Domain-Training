@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DBF_WebApp_API.props" />
+</Project>
