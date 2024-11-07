@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\migrations\\20241107073157_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:migrations\\20241107073157_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 9\\training_auth_demo\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5A0CE-A738-4EA8-85D5-9E73938A532A}|Training_Auth_Demo.csproj|solutionrelative:authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:28:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleController.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Controllers\\SampleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SampleController.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Controllers\\SampleController.cs",
+              "RelativeToolTip": "Controllers\\SampleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:14:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Controllers\\AuthenticationController.cs*",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:33:26.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241107073157_Db creation.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Migrations\\20241107073157_Db creation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241107073157_Db creation.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Migrations\\20241107073157_Db creation.cs",
+              "RelativeToolTip": "Migrations\\20241107073157_Db creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:31:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T07:25:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:21:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "Authentication\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:18:54.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "Authentication\\Response.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\Response.cs",
+              "RelativeToolTip": "Authentication\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:20:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Authentication\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "Authentication\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:20:15.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "Authentication\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:18:14.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 9\\Training_Auth_Demo\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "Authentication\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:17:22.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
