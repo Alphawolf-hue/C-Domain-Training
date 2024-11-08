@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095260BD-BCF0-4BB0-A817-6EFCFB4F25F5}|SchoolApiGateway\\SchoolApiGateway.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schoolapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{095260BD-BCF0-4BB0-A817-6EFCFB4F25F5}|SchoolApiGateway\\SchoolApiGateway.csproj|solutionrelative:schoolapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095260BD-BCF0-4BB0-A817-6EFCFB4F25F5}|SchoolApiGateway\\SchoolApiGateway.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schoolapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095260BD-BCF0-4BB0-A817-6EFCFB4F25F5}|SchoolApiGateway\\SchoolApiGateway.csproj|solutionrelative:schoolapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095260BD-BCF0-4BB0-A817-6EFCFB4F25F5}|SchoolApiGateway\\SchoolApiGateway.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schoolapigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{095260BD-BCF0-4BB0-A817-6EFCFB4F25F5}|SchoolApiGateway\\SchoolApiGateway.csproj|solutionrelative:schoolapigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED7D8EB-61AE-4828-9240-95F0DB3A9A5F}|StudentAttendance\\StudentAttendance.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\studentattendance\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ED7D8EB-61AE-4828-9240-95F0DB3A9A5F}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schooladmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schooladmission\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED7D8EB-61AE-4828-9240-95F0DB3A9A5F}|StudentAttendance\\StudentAttendance.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\studentattendance\\controllers\\studentsatendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED7D8EB-61AE-4828-9240-95F0DB3A9A5F}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\controllers\\studentsatendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED7D8EB-61AE-4828-9240-95F0DB3A9A5F}|StudentAttendance\\StudentAttendance.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\studentattendance\\models\\stuattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED7D8EB-61AE-4828-9240-95F0DB3A9A5F}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\models\\stuattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schooladmission\\controllers\\schooladmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\controllers\\schooladmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schooladmission\\models\\studentadmissiondetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\models\\studentadmissiondetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|c:\\users\\aniket barua\\onedrive\\desktop\\c# code\\domain training\\day 10\\microservices_demo\\schooladmission\\schooladmission.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19261E5E-3D17-420B-A93B-3B90447FE117}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\schooladmission.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T07:02:09.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Program.cs",
+              "RelativeToolTip": "SchoolAdmission\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:40:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolAdmission\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:38:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\StudentAttendance\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentAttendance\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\StudentAttendance\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentAttendance\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:38:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolApiGateway\\Program.cs",
+              "RelativeToolTip": "SchoolApiGateway\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:35:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "SchoolApiGateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolApiGateway\\Ocelot.json",
+              "RelativeToolTip": "SchoolApiGateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:33:43.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsAtendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "RelativeDocumentMoniker": "StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "RelativeToolTip": "StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:24:21.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StuAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\StudentAttendance\\Models\\StuAttendance.cs",
+              "RelativeDocumentMoniker": "StudentAttendance\\Models\\StuAttendance.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\StudentAttendance\\Models\\StuAttendance.cs",
+              "RelativeToolTip": "StudentAttendance\\Models\\StuAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:23:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolAdmissionController.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "RelativeToolTip": "SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:18:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentAdmissionDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "RelativeToolTip": "SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:17:36.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolAdmission",
+              "DocumentMoniker": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\SchoolAdmission.csproj",
+              "RelativeDocumentMoniker": "SchoolAdmission\\SchoolAdmission.csproj",
+              "ToolTip": "C:\\Users\\Aniket Barua\\OneDrive\\Desktop\\C# code\\Domain Training\\Day 10\\Microservices_Demo\\SchoolAdmission\\SchoolAdmission.csproj",
+              "RelativeToolTip": "SchoolAdmission\\SchoolAdmission.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T06:14:39.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
