@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <ul id="userlist">
+            <script>
+                const users=[
+                            {id:1,name:"Pedri",email:"xyz1"},
+                            {id:2,name:"Casado",email:"xyz2"},
+                            {id:3,name:"Gavi",email:"xyz3"},
+                            ];
+                            const userlist=document.getElementById("userlist");
+                            users.map((user)=>{
+                                const listitem=document.createElement("li");
+                                listitem.innerText=`ID:${user.id} Name:${user.name} Email:${user.email}`;
+                                userlist.appendChild(listitem);
+                            });
+            </script>
+        </ul>
+    </body>
+</html>
