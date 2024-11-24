@@ -37,7 +37,10 @@
   }
 }
 
-button{
-  background-color: aqua;
-  color: blueviolet;
+.cssClassExample{
+  margin: 2px;
+  color: green;
+  background-color: lightyellow;
+  padding: 10px;
+  border-radius: 5px;
 }
