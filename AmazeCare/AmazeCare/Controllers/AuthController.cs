@@ -1,19 +1,15 @@
-﻿using AmazeCare.Services;
-using AmazeCare.Dtos;
+﻿using AmazeCare.Dtos;
 using AmazeCare.Models;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
+using AmazeCare.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
-using System.IdentityModel.Tokens.Jwt;
-using IAuthenticationService = AmazeCare.Services.IAuthenticationService;
-using Microsoft.IdentityModel.Tokens;
-using AuthenticationService = AmazeCare.Services.AuthenticationService;
+using System.Threading.Tasks;
 
 namespace AmazeCare.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAllOrigins")]
     public class AuthController : ControllerBase
     {
         private readonly AuthenticationService _authenticationService;
@@ -23,13 +19,23 @@ namespace AmazeCare.Controllers
             _authenticationService = authenticationService;
         }
 
+        // Login endpoint to authenticate user and generate a token
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel login)
-        { 
-            var token = await _authenticationService.AuthenticateUserAsync(login.Username, login.Password); 
+        {
+            if (login == null || string.IsNullOrEmpty(login.Username) || string.IsNullOrEmpty(login.Password))
+            {
+                return BadRequest("Username and password are required.");
+            }
+
+            // Authenticate the user and generate the token
+            var token = await _authenticationService.AuthenticateUserAsync(login.Username, login.Password);
             if (token == null)
-            { return Unauthorized(); } 
-            return Ok(new { Token = token });
+            {
+                return Unauthorized(); // Authentication failed
+            }
+
+            return Ok(new { Token = token }); // Return the JWT token
         }
     }
 }

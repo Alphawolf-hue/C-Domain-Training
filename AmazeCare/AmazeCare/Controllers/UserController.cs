@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 
 namespace AmazeCare.Controllers
 {
+    [EnableCors("AllowAllOrigins")]
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
@@ -49,25 +51,7 @@ namespace AmazeCare.Controllers
                 return BadRequest("User registration failed.");
             }
 
-            return Ok("User registered successfully.");
-        }
-
-        // Login User
-        [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] LoginModel loginModel)
-        {
-            if (loginModel == null)
-            {
-                return BadRequest("Invalid data.");
-            }
-
-            var user = await _userService.LoginAsync(loginModel.Username, loginModel.Password);
-            if (user == null)
-            {
-                return Unauthorized("Invalid credentials.");
-            }
-
-            return Ok("Login successful.");
+            return Ok(new { message = "User registered successfully.", userId = result.UserID});
         }
     }
 }

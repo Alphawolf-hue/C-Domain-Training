@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmazeCare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+902a78cc8415bb1d73d26b284401b36195711b60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+736a09e8dc32098a18d7dea2576f9f099c000151")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmazeCare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmazeCare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

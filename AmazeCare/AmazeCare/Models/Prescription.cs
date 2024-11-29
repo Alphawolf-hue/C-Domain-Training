@@ -9,9 +9,8 @@ namespace AmazeCare.Models
         // Nullable foreign key
         public int? PatientId { get; set; }
         public Patient? Patient { get; set; }
-
         public int AppointmentId { get; set; }
-        public Appointment Appointment { get; set; }
+        public Appointment? Appointment { get; set; }
 
         public string Medications { get; set; }
     }

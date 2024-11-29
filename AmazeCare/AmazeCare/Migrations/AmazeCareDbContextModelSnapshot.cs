@@ -87,6 +87,33 @@ namespace AmazeCare.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("AmazeCare.Models.Administrator", b =>
+                {
+                    b.Property<int>("AdminID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AdminID"), 1L, 1);
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FullName")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<int?>("UserID")
+                        .HasColumnType("int");
+
+                    b.HasKey("AdminID");
+
+                    b.HasIndex("UserID");
+
+                    b.ToTable("Administrators");
+                });
+
             modelBuilder.Entity("AmazeCare.Models.Appointment", b =>
                 {
                     b.Property<int>("Id")
@@ -137,7 +164,12 @@ namespace AmazeCare.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Doctors");
                 });
@@ -165,7 +197,12 @@ namespace AmazeCare.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Patients");
                 });
@@ -392,6 +429,15 @@ namespace AmazeCare.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("AmazeCare.Models.Administrator", b =>
+                {
+                    b.HasOne("AmazeCare.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserID");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("AmazeCare.Models.Appointment", b =>
                 {
                     b.HasOne("AmazeCare.Models.Doctor", "Doctor")
@@ -407,6 +453,26 @@ namespace AmazeCare.Migrations
                     b.Navigation("Doctor");
 
                     b.Navigation("Patient");
+                });
+
+            modelBuilder.Entity("AmazeCare.Models.Doctor", b =>
+                {
+                    b.HasOne("AmazeCare.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("AmazeCare.Models.Patient", b =>
+                {
+                    b.HasOne("AmazeCare.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("AmazeCare.Models.Prescription", b =>

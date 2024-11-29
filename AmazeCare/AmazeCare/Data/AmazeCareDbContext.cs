@@ -7,6 +7,7 @@ namespace AmazeCare.Data
     public class AmazeCareDbContext:IdentityDbContext<ApplicationUser>
     {
         public AmazeCareDbContext(DbContextOptions<AmazeCareDbContext> options) : base(options) { }
+        public DbSet<Administrator> Administrators { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<Patient> Patients { get; set; }
@@ -51,6 +52,16 @@ namespace AmazeCare.Data
                 .HasForeignKey(p => p.AppointmentId)
                 .OnDelete(DeleteBehavior.Cascade);  // Cascade delete on Appointment deletion
 
+            modelBuilder.Entity<Doctor>().
+                HasOne(d => d.User)
+                .WithMany().HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Patient>()
+                .HasOne(p => p.User)
+                .WithMany()
+                .HasForeignKey(p => p.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
 
             base.OnModelCreating(modelBuilder);
 

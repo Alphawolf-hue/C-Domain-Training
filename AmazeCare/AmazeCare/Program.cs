@@ -41,12 +41,20 @@ namespace AmazeCare
                 {
                     ValidateIssuer = true,
                     ValidateAudience = true,
-                    ValidAudience = builder.Configuration["JWT:Audience"] ?? Environment.GetEnvironmentVariable("JWT_Audience"),
-                    ValidIssuer = builder.Configuration["JWT:Issuer"] ?? Environment.GetEnvironmentVariable("JWT_Issuer"),
+                    ValidAudience = builder.Configuration["JWT:Audience"],
+                    ValidIssuer = builder.Configuration["JWT:Issuer"],
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Key"] ?? Environment.GetEnvironmentVariable("JWT_Key")))
                 };
             });
-
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAllOrigins", builder =>
+                {
+                    builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader();
+                });
+            });
             // Registering Application Repositories and Services
             builder.Services.AddScoped<IAppointmentRepository, AppointmentRepository>();
             builder.Services.AddScoped<IDoctorRepository, DoctorRepository>();
@@ -60,6 +68,7 @@ namespace AmazeCare
             builder.Services.AddScoped<IPrescriptionService, PrescriptionService>();
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<AuthenticationService>();
+            builder.Services.AddScoped<AdminService>();
 
             builder.Services.AddControllers();
             // Add Swagger support
@@ -91,14 +100,14 @@ namespace AmazeCare
                     }
                 });
             });
-
+           
             var app = builder.Build();
-
-            // Configure the HTTP request pipeline.
+           
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
+                app.UseDeveloperExceptionPage();
             }
 
             app.UseHttpsRedirection();
@@ -106,6 +115,7 @@ namespace AmazeCare
             app.UseAuthentication();  // Add authentication middleware
             app.UseAuthorization();   // Add authorization middleware
 
+            app.UseCors("AllowAllOrigins");
             app.MapControllers();
 
             app.Run();

@@ -1,14 +1,17 @@
 ﻿using AmazeCare.Models;
 using AmazeCare.Services;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AmazeCare.Controllers
 {
-    [Authorize(Roles = "Doctor")]
+    //[EnableCors("AllowAllOrigins")]
+    [Authorize(Roles = "Doctor,Admin")]
     [Route("api/[controller]")]
     [ApiController]
+    
     public class DoctorController : ControllerBase
     {
         private readonly IDoctorService _doctorService;
@@ -17,8 +20,9 @@ namespace AmazeCare.Controllers
         {
             _doctorService = doctorService;
         }
-
+        
         [HttpGet]
+        [AllowAnonymous]
         public async Task<IActionResult> GetAllDoctors()
         {
             try
@@ -53,6 +57,7 @@ namespace AmazeCare.Controllers
         {
             try
             {
+                if (doctor.UserId == null) { return BadRequest(new { message = "UserId is required" }); }
                 var createdDoctor = await _doctorService.CreateDoctorAsync(doctor);
                 return CreatedAtAction(nameof(GetDoctorById), new { id = createdDoctor.Id }, new { message = "Successfully Created", data = createdDoctor });
             }
@@ -72,13 +77,16 @@ namespace AmazeCare.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> DeleteDoctor(int id)
         {
             var result = await _doctorService.DeleteDoctorAsync(id);
             if (!result) return NotFound();
             return NoContent();
         }
+
         [HttpGet("search")]
+        [AllowAnonymous]
         public async Task<IActionResult> GetDoctorsBySpecialty([FromQuery] string specialization)
         {
             try

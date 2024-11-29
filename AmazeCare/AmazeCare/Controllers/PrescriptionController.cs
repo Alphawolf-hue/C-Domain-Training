@@ -1,6 +1,7 @@
 ﻿using AmazeCare.Models;
 using AmazeCare.Services;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,7 @@ namespace AmazeCare.Controllers
     [Authorize(Roles = "Doctor")]
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAllOrigins")]
     public class PrescriptionController : ControllerBase
     {
         private readonly IPrescriptionService _prescriptionService;
@@ -24,7 +26,7 @@ namespace AmazeCare.Controllers
             var prescriptions = await _prescriptionService.GetAllPrescriptionsAsync();
             return Ok(prescriptions);
         }
-
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<ActionResult<Prescription>> GetPrescriptionById(int id)
         {

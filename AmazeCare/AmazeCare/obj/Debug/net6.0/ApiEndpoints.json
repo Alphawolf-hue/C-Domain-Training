@@ -1,5 +1,242 @@
 [
   {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "GetAllAdmins",
+    "RelativePath": "api/Admin/admins",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "CreateAdmin",
+    "RelativePath": "api/Admin/admins",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "admin",
+        "Type": "AmazeCare.Models.Administrator",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "GetAdminById",
+    "RelativePath": "api/Admin/admins/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "UpdateAdmin",
+    "RelativePath": "api/Admin/admins/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "admin",
+        "Type": "AmazeCare.Models.Administrator",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "GetAllDoctors",
+    "RelativePath": "api/Admin/doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "CreateDoctor",
+    "RelativePath": "api/Admin/doctors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "AmazeCare.Models.Doctor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "GetDoctorById",
+    "RelativePath": "api/Admin/doctors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "UpdateDoctor",
+    "RelativePath": "api/Admin/doctors/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "doctor",
+        "Type": "AmazeCare.Models.Doctor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "DeleteDoctor",
+    "RelativePath": "api/Admin/doctors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "GetDoctorsBySpecialty",
+    "RelativePath": "api/Admin/doctors/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "specialization",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "GetAllPatients",
+    "RelativePath": "api/Admin/patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "CreatePatient",
+    "RelativePath": "api/Admin/patients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "AmazeCare.Models.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "GetPatientById",
+    "RelativePath": "api/Admin/patients/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Admin/patients/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "patient",
+        "Type": "AmazeCare.Models.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCare.Controllers.AdminController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Admin/patients/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AmazeCare.Controllers.AppointmentController",
     "Method": "GetAllAppointments",
     "RelativePath": "api/Appointment",
@@ -372,22 +609,6 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "AmazeCare.Controllers.UserController",
-    "Method": "Login",
-    "RelativePath": "api/User/login",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "loginModel",
-        "Type": "AmazeCare.Models.LoginModel",
         "IsRequired": true
       }
     ],

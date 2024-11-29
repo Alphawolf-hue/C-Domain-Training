@@ -1,16 +1,19 @@
 ﻿using AmazeCare.Data;
 using AmazeCare.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace AmazeCare.Repositories
 {
     public class UserRepository : IUserRepository
     {
         private readonly AmazeCareDbContext _context;
-
-        public UserRepository(AmazeCareDbContext context)
+        private readonly string _secretKey;
+        public UserRepository(AmazeCareDbContext context, IConfiguration configuration)
         {
             _context = context;
+            _secretKey = configuration["Jwt:Key"];
         }
 
         public async Task<bool> ValidateUserCredentialsAsync(string username, string password)
@@ -20,7 +23,7 @@ namespace AmazeCare.Repositories
                 return false;
 
             // Compare hashed password
-            return BCrypt.Net.BCrypt.Verify(password, user.PasswordHash);
+            return VerifyPassword(password, user.PasswordHash);
         }
 
         public async Task<User> GetUserByUsernameAsync(string username)
@@ -31,7 +34,7 @@ namespace AmazeCare.Repositories
 
         public async Task<bool> RegisterUserAsync(string username, string password, string role)
         {
-            var hashedPassword = BCrypt.Net.BCrypt.HashPassword(password);
+            var hashedPassword = HashPassword(password, _secretKey);
 
             var roleId = await GetRoleIdByNameAsync(role);
             if (roleId == null)
@@ -55,6 +58,18 @@ namespace AmazeCare.Repositories
                 .FirstOrDefaultAsync(r => r.RoleName.Equals(roleName, StringComparison.OrdinalIgnoreCase));
 
             return role?.RoleId;
+        }
+        private string HashPassword(string password, string key) 
+        { 
+            using (var hmac = new HMACSHA256(Encoding.UTF8.GetBytes(key))) 
+            { var hash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password)); 
+                return Convert.ToBase64String(hash); 
+            } 
+        }
+        private bool VerifyPassword(string password, string storedHash) 
+        { 
+            var hashedPassword = HashPassword(password, _secretKey);
+            return hashedPassword == storedHash;
         }
     }
     

@@ -1,14 +1,16 @@
 ﻿using AmazeCare.Models;
 using AmazeCare.Services;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AmazeCare.Controllers
 {
-    [Authorize(Roles = "Patient")]
+    [Authorize(Roles = "Patient,Admin")]
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAllOrigins")]
     public class PatientController : ControllerBase
     {
         private readonly IPatientService _patientService;
@@ -19,6 +21,7 @@ namespace AmazeCare.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetAllPatients()
         {
             var patients = await _patientService.GetAllPatientsAsync();
@@ -45,6 +48,7 @@ namespace AmazeCare.Controllers
         {
             try
             {
+                if (patient.UserId == null) { return BadRequest(new { message = "UserId is required" }); }
                 var createdPatient = await _patientService.CreatePatientAsync(patient);
                 return CreatedAtAction(nameof(GetPatientById), new { id = createdPatient.Id }, new { message = "Successfully Created", data = createdPatient });
             }
@@ -73,6 +77,7 @@ namespace AmazeCare.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> DeletePatient(int id)
         {
             var result = await _patientService.DeletePatientAsync(id);
